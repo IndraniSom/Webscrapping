@@ -1,14 +1,25 @@
-import requests
-from bs4 import BeautifulSoup
-url="https://aot.edu.in/placed-student-details-2021-2-2/"
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
-r = requests.get(url, headers=headers)
+import json
 
-# Use the 'html.parser' to parse the page
-soup = BeautifulSoup(r.content, 'html.parser')
+# Load the data from the JSON file
+with open('faculty.json', 'r') as file:
+    data = json.load(file)
 
-# Open a file in write mode and write the prettified HTML to it
-with open('output.html', 'w') as f:
-    f.write(soup.prettify())
+# Create a list to store the mapped data
+mapped_data = []
+
+# Loop over each row in the data, skipping the first one (headers)
+for row in data[1:]:
+    # Create a dictionary for the row
+    row_dict = {
+        'nameofthefaculty': row[0],
+        'desg': row[1],
+        'highest qualification': row[2],
+        'experience': row[3]
+    }
+
+    # Add the dictionary to the mapped_data list
+    mapped_data.append(row_dict)
+
+# Write the mapped data to a new JSON file
+with open('mapped_faculty.json', 'w') as file:
+    json.dump(mapped_data, file)

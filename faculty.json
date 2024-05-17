@@ -1,0 +1,777 @@
+[
+  
+  {
+    "nameofthefaculty": "Prof. Dilip Bhattacharya",
+    "desg": "Professor & Director",
+    "highest qualification": "Ph.D",
+    "experience": "40 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Prof.Sripati Mukhopadhyay",
+    "desg": "Professor",
+    "highest qualification": "Ph.D",
+    "experience": "40 yrs"
+  },
+  {
+    "nameofthefaculty": "Prof.Dilip Kumar Maity",
+    "desg": "Professor & Principal",
+    "highest qualification": "Ph.D",
+    "experience": "20 yrs"
+  },
+  {
+    "nameofthefaculty": "Prof.Partha Dey",
+    "desg": "Professor",
+    "highest qualification": "Ph.D",
+    "experience": "24 yrs"
+  },
+  {
+    "nameofthefaculty": "Prof.Abhijit Banerjee",
+    "desg": "Professor",
+    "highest qualification": "Ph.D",
+    "experience": "18 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Krishna Bhowal",
+    "desg": "Associate Professor & Registrar",
+    "highest qualification": "Ph.D",
+    "experience": "17 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Arindrajit Pal",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "18 yrs 10 mts"
+  },
+  {
+    "nameofthefaculty": "Basab Chatterjee",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "19 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Sirshendu Saha",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "16 yrs"
+  },
+  {
+    "nameofthefaculty": "Sandip Saha Chowdhury",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "22 yrs"
+  },
+  {
+    "nameofthefaculty": "Hiranmoy Mondal",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "17 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Srinjoy Bid",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "20 yrs"
+  },
+  {
+    "nameofthefaculty": "Abhijit Mallick",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "21 yrs 5 mts"
+  },
+  {
+    "nameofthefaculty": "Biswaranjan Das",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "18 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Baishakhi Bhattacharya",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "14 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Subhra Chatterjee",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "14 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Poulomi Deb Roy Chowdhury",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "17 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Sourav Kayal",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "10 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Asish Mohan",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "14 yrs"
+  },
+  {
+    "nameofthefaculty": "Jhumpa De",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "15 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Bappaditya Mondal",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "16 yrs"
+  },
+  {
+    "nameofthefaculty": "Paulomi Chattopadhyay",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "17 yrs 6 mts"
+  },
+  {
+    "nameofthefaculty": "Subir Panja",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "14 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Abhinaba Dutta",
+    "desg": "Associate Professor",
+    "highest qualification": "Ph.D",
+    "experience": "16 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Jayati Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "3 yrs"
+  },
+  {
+    "nameofthefaculty": "Oendrila Samanta",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Kanishka Majumder",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "9 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Sukanta Bose",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "13 yrs"
+  },
+  {
+    "nameofthefaculty": "Nabanita Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "7 yrs"
+  },
+  {
+    "nameofthefaculty": "Soumya Chatterjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "16 yrs"
+  },
+  {
+    "nameofthefaculty": "Ramnayan Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "8 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Somnath Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "8 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Anshupriya Shome",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "3 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Dhrubajyoti Mondal",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "3 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Vikram Bhagat",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "13 yrs"
+  },
+  {
+    "nameofthefaculty": "Sreetama Sinha",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Shalini Misra",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "4 yrs"
+  },
+  {
+    "nameofthefaculty": "Rituparna Pakhira",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yrs 4 mts"
+  },
+  {
+    "nameofthefaculty": "Avishek Chakraborty",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yr 3 mts"
+  },
+  {
+    "nameofthefaculty": "Nisantika Biswas",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "10 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Sanjib Kundu",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "12 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Partha Ghosh",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "10 yrs"
+  },
+  {
+    "nameofthefaculty": "Smarajit Maity",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "18 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Tapas Tewary",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "14 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Nayan Ranjan Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "1 yrs 10 mts"
+  },
+  {
+    "nameofthefaculty": "Soumendu Banerjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "11 yrs"
+  },
+  {
+    "nameofthefaculty": "Snehasish Saha",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "6 yrs"
+  },
+  {
+    "nameofthefaculty": "Debamalya Ghosh",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Sunanda Sinha",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Moupikta Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Arun Kumar Sadhu",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "19 yrs"
+  },
+  {
+    "nameofthefaculty": "Pinak Pani Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "Ph.D",
+    "experience": "13 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Niloy Ghosh",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "7 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Nibedita Saha",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "9 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Jayjeet Sarkar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "15 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Supantha Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "10 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Swarup Sarkar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "14 yrs 6 mts"
+  },
+  {
+    "nameofthefaculty": "Nupur Chhaule",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "12 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Rakhi Neogi",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "12 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Suman Bhattacharya",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "14 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Kaushik Roy Chowdhury",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "18 yrs"
+  },
+  {
+    "nameofthefaculty": "Biswajit Patra",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs 4 mts"
+  },
+  {
+    "nameofthefaculty": "Priyanka Bhattacharya",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "14 yrs"
+  },
+  {
+    "nameofthefaculty": "Chiranjit Guchait",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "9 yrs 11 mts"
+  },
+  {
+    "nameofthefaculty": "Subhasish Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "1 yr"
+  },
+  {
+    "nameofthefaculty": "Prasenjit Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "22 yrs"
+  },
+  {
+    "nameofthefaculty": "Somen Kumar Hati",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "22 yrs"
+  },
+  {
+    "nameofthefaculty": "Jyotirmoy Panja",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.BA",
+    "experience": "1 yr"
+  },
+  {
+    "nameofthefaculty": "Sailik Sen",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs 1mts"
+  },
+  {
+    "nameofthefaculty": "Kaushik Bose",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Garima Rani",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Subhankar Roy",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "11 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "K.M.Priti",
+    "desg": "Assistant Professor",
+    "highest qualification": "MCA",
+    "experience": "4 yrs 4 mts"
+  },
+  {
+    "nameofthefaculty": "Aaheli Sarkar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs"
+  },
+  {
+    "nameofthefaculty": "Ashutosh Kumar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs 4 mts"
+  },
+  {
+    "nameofthefaculty": "Firoj Ahamad",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Srikrishna Awasthi",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Jitendra Banerjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "13 yrs"
+  },
+  {
+    "nameofthefaculty": "Suman Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "4 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Buddhadeb Chatterjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "11 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Jyotirmoy Chakrabarti",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "14 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Swarna Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "9yrs"
+  },
+  {
+    "nameofthefaculty": "Amit Kumar Nandi",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "12 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Md. Ehtesham",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs"
+  },
+  {
+    "nameofthefaculty": "Partha Banerjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "8 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Divyangna Sharma",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Subham Pramanik",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "13 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Netai Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Manisha",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs 4 mts"
+  },
+  {
+    "nameofthefaculty": "Mintu Dey",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Hiralal Kumar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "2 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Manish Sharma",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs"
+  },
+  {
+    "nameofthefaculty": "Abhijit Patra",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.E",
+    "experience": "14 yrs 6 mts"
+  },
+  {
+    "nameofthefaculty": "Subhradeep Maitra",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "1 yr"
+  },
+  {
+    "nameofthefaculty": "Bamdeb Banerjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "19 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Debasish Sur",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "10 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Debjani Bhattacharya",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "13 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Kaustav Bhadar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "9 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Sayan Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "3 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Suman Sengupta",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "28 yrs"
+  },
+  {
+    "nameofthefaculty": "Gaurav Shalot",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Soumitra Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Sandipan Misra",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "13 yrs 9 mts"
+  },
+  {
+    "nameofthefaculty": "Suman Kumar Das",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "13 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Abhijit Basu",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "12 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Aloke Kumar Ghoshal",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.B.A",
+    "experience": "16 yrs 8 mts"
+  },
+  {
+    "nameofthefaculty": "Anindya Saha",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Sc",
+    "experience": "20 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Soma Banerjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "MBA",
+    "experience": "10 yrs 1 mts"
+  },
+  {
+    "nameofthefaculty": "Arindam Dey",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Sc",
+    "experience": "3 yrs"
+  },
+  {
+    "nameofthefaculty": "Dwijen Biswas",
+    "desg": "Assistant Professor",
+    "highest qualification": "MBA",
+    "experience": "3 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Shaoli Mukherjee",
+    "desg": "Assistant Professor",
+    "highest qualification": "MBA",
+    "experience": "3 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Anil Kumar Sharma",
+    "desg": "Assistant Professor",
+    "highest qualification": "MBA",
+    "experience": "12 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Uday Kumar Mandal",
+    "desg": "Assistant Professor",
+    "highest qualification": "MCA, M.Tech",
+    "experience": "15 yrs 3 mts"
+  },
+  {
+    "nameofthefaculty": "Venu Gopal",
+    "desg": "Assistant Professor",
+    "highest qualification": "MCA",
+    "experience": "4 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Suman Goswami",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Sarjita Soo",
+    "desg": "Assistant Professor",
+    "highest qualification": "MCA, M.Tech",
+    "experience": "4 yrs"
+  },
+  {
+    "nameofthefaculty": "Suchibrata Dutta",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "14 yrs 4 mts"
+  },
+  {
+    "nameofthefaculty": "Shamik Kumar Bose",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "5 yrs"
+  },
+  {
+    "nameofthefaculty": "Poulomi Ganguly",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "8 yrs"
+  },
+  {
+    "nameofthefaculty": "Dibyendu Kumar Ghosh",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "1 yr"
+  },
+  {
+    "nameofthefaculty": "Sajal Sasmal",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "9 yrs"
+  },
+  {
+    "nameofthefaculty": "Dipanjan De",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "15 yrs"
+  },
+  {
+    "nameofthefaculty": "Shiladitya Acharyya",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "1 yr"
+  },
+  {
+    "nameofthefaculty": "Jayanta Digar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Anumita Singha Roy",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "4 yrs"
+  },
+  {
+    "nameofthefaculty": "Sruti Mondal",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "8 yrs"
+  },
+  {
+    "nameofthefaculty": "Tanmoy Makar",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs"
+  },
+  {
+    "nameofthefaculty": "Priya Raj Chandra",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "2 yrs 2 mts"
+  },
+  {
+    "nameofthefaculty": "Soumali Roy",
+    "desg": "Assistant Professor",
+    "highest qualification": "M.Tech",
+    "experience": "5 yrs"
+  }
+]

@@ -7,48 +7,53 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from bs4 import BeautifulSoup
 import time
 
+
 url = 'https://aot.edu.in/faculty-profile/'
 
 driver = webdriver.Chrome()
 
 driver.get(url)
 
-# Open the CSV file in write mode
-with open('faculty.json', 'w', newline='') as file:
-    writer = json.writer(file)
-    writer.writerow(['name of the Faculty','Designation','Highest Qualification','Experience'])  
+data = []
 
-    old_data = None
+old_data = None
 
-    while True:
-        # Wait for the page to load
-        time.sleep(2)
+while True:
+    # Wait for the page to load
+    time.sleep(2)
 
-        # Get the HTML of the page and create a BeautifulSoup object
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
+    # Get the HTML of the page and create a BeautifulSoup object
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
 
-        table = soup.find(id="tablepress-41")
+# Find the table on the page
+    table = soup.find(id='tablepress-41')
 
-        if table is not None:
-            for row in table.find_all('tr')[1:]:  # Skip the header row
-                columns = row.find_all('td')
-                row_data = [column.text for column in columns]
+# Find all rows in the table
+    rows = table.find_all('tr')
 
-                # If the data is the same as the last page, break the loop
-                if row_data == old_data:
-                    break
+    data = []
 
-                # Write the row data to the CSV file
-                writer.writerow(row_data)
+# Loop over all rows
+    for row in rows:
+    # Find all columns in the row
+        columns = row.find_all('td')
 
-                # Update old_data with the current row data
-                old_data = row_data
+    # Check if there are enough columns
+        if len(columns) >= 4:
+        # Create a dictionary for the row
+            row_dict = {
+                'nameofthefaculty': columns[0].text.strip(),
+                'desg': columns[1].text.strip(),
+                'highest qualification': columns[2].text.strip(),
+                'experience': columns[3].text.strip()
+        }
 
-        # Click the "Next" button
-        try:
-            next_button = driver.find_element(By.ID,"")
-            next_button.click()
-        except NoSuchElementException:
-            break  # No more pages
+        # Add the dictionary to the data list
+            data.append(row_dict)
 
-driver.close()
+# Write the data to the JSON file
+    with open('faculty.json', 'w') as file:
+        json.dump(data, file)
+        file.write('\n')
+
+    driver.close()
